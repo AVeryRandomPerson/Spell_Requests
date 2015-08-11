@@ -1,0 +1,8 @@
+//Generated using Dota Custom File Generator by cris9696
+"DOTAHeroes"
+{
+
+
+	//Start of file heroes.txt
+	//End of file heroes.txt
+}
